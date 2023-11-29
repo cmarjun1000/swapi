@@ -1,8 +1,8 @@
-# React + Vite
+This is a application that makes use of the Star Wars API to be able to view data on each type of entities in Star Wars
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+API reference: https://swapi.dev/documentation
 
-Currently, two official plugins are available:
+This application has been implemented using React + Vite 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The design pattern/Flow diagram is :
+![swapi](https://github.com/cmarjun1000/swapi/assets/33662184/a05510f4-a108-4ac7-af5d-7de4627ee5ee)
